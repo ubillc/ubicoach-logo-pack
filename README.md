@@ -7,11 +7,13 @@ The UbiCoach logos are all vector in format, so all original files will be store
 > **SVG vs EPS**:
 > The SVG format is newer and best suited for the web. the EPS format is older (and no longer in development), but is best suited for printing. SVG is XML while EPS is Postscript based.
 
-Exports for production use, often needed in raster format, will be available in the following formats:
+Exports for raster format needs will be provided in the PNG format, with transparency.
 
-1. **PNG**: This is a common and modern good quality raster image format. This format offers transparency.
-2. **WebP**; This is a newer and less common raster format developed by Google that offers numerous advantages, but is still lacking total support. This format offers transparency.
-3. **JPG/JPEG**: This is a legacy raster image format that is essentially obsolete, but is not going anywhere anytime soon. This format does not offer transparency. Unless it is required for a certain application, there is **no reason** to use this format. It will be provided with a white background only. This is primarily used for printing on white paper.
+>**PNG**: This is a common and modern good quality raster image format. This format offers transparency.
+>
+>**WebP** [By Request Only]: This is a newer and less common raster format developed by Google that offers numerous advantages, but is still lacking universal support as exists with other formats. This format offers transparency.
+>
+>**JPG/JPEG** [By Request Only]: This is a legacy raster image format that is essentially obsolete, but is not going anywhere anytime soon. This format does not offer transparency. Unless it is required for a certain application, there is **no reason** to use this format. Exporting a vector image to JPG often leads to artifacts that are not desirable. It will be provided with a white background only. This is primarily used for printing on white paper.
 
 ## Logo Types
 
